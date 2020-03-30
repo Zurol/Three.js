@@ -1,0 +1,27 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "Pruebas",
+  "main": "index.html",
+  "scripts": {
+    "test": "dock"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zurol/Three.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Three.js"
+  ],
+  "author": "Zurol Segura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zurol/Three.js/issues"
+  },
+  "homepage": "https://github.com/Zurol/Three.js#readme",
+  "dependencies": {
+    "three": "^0.115.0"
+  },
+  "devDependencies": {}
+}
